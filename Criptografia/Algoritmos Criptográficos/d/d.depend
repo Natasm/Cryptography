@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1508677988 source:c:\users\nsm\desktop\trabalho 02.1\tiny-aes-c-master-edtionteacher\aes.c
+	<stdint.h>
+	<string.h>
+	"aes.h"
+
+1507117884 c:\users\nsm\desktop\trabalho 02.1\tiny-aes-c-master-edtionteacher\aes.h
+	<stdint.h>
+
+1508890234 source:c:\users\nsm\desktop\trabalho 02.1\tiny-aes-c-master-edtionteacher\test.c
+	<stdio.h>
+	<string.h>
+	<stdint.h>
+	"aes.h"
+
